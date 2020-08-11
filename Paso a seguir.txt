@@ -1,2 +1,3 @@
 1. El proyecto esta realizado en unity
-2. Descargar los diversos paquetes para unity
+2. Descargar los diversos paquetes para unity en el Asset Store
+3. Descargar los plugins y paquetes del https://assetstore.unity.com/packages/essentials/tutorial-projects/2d-game-kit-107098
