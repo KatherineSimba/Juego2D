@@ -1,0 +1,2 @@
+1. El proyecto esta realizado en unity
+2. Descargar los diversos paquetes para unity
